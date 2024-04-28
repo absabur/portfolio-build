@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31665c7d.css",
+    "main.js": "/static/js/main.fb998114.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/me.png": "/static/media/me.62916c1b7d09bd32fc50.png",
+    "static/media/sass.png": "/static/media/sass.aa16d6441e3e941f60c1.png",
+    "static/media/Postgres.png": "/static/media/Postgres.4a8c66c90ba3b5e27f7c.png",
+    "static/media/html.png": "/static/media/html.1336fa4c1237f6c1032d.png",
+    "static/media/node.svg": "/static/media/node.4d8b9a0c5a604b6b68d3750273f913d6.svg",
+    "static/media/postman.svg": "/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "static/media/git.png": "/static/media/git.e8300bef2a676bd8e546.png",
+    "static/media/aws.svg": "/static/media/aws.ef6fb669b0a703b10cc24325ad455240.svg",
+    "static/media/react.svg": "/static/media/react.c3a0b34aae466451a91157424eec1ee3.svg",
+    "static/media/mysql.svg": "/static/media/mysql.61d16d6438ce80c593a10153f5654b10.svg",
+    "static/media/docker.svg": "/static/media/docker.26ada6e465df47e1423793e7e41f43ba.svg",
+    "static/media/firebase.svg": "/static/media/firebase.1aa395c85c103e349e0af5b92f670243.svg",
+    "static/media/nextJS.svg": "/static/media/nextJS.330fb71cbedf3482d2a778c44724ab71.svg",
+    "static/media/mongoDB.svg": "/static/media/mongoDB.4428e2ce754003752672dce4c3d81b9d.svg",
+    "static/media/python.svg": "/static/media/python.0934792163d56e233fb5f42cc69d7ed1.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.3b3ab2cfe7cdf9d8eb417ce32f573b04.svg",
+    "static/media/javascript.svg": "/static/media/javascript.f84ec7103324dc7e616d00ed43ecd531.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.01daca9bb655244e125004ccd8d68e66.svg",
+    "static/media/django.svg": "/static/media/django.497d37bef7d9de0a1453a106b39875b5.svg",
+    "static/media/github.svg": "/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "static/media/css.svg": "/static/media/css.6ec1697a406483c72ccf775894d16777.svg",
+    "index.html": "/index.html",
+    "main.31665c7d.css.map": "/static/css/main.31665c7d.css.map",
+    "main.fb998114.js.map": "/static/js/main.fb998114.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31665c7d.css",
+    "static/js/main.fb998114.js"
+  ]
+}
