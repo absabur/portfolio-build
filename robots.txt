@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://absabur.pro
+Host: https://absaur.pro
 
 # Sitemaps
-Sitemap: https://absabur.pro/sitemap.xml
+Sitemap: https://absaur.pro/sitemap.xml
