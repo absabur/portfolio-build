@@ -2,6 +2,8 @@
 User-agent: *
 Allow: /
 
+Disallow: /manifest.webmanifest
+
 # Host
 Host: https://absaur.pro
 
